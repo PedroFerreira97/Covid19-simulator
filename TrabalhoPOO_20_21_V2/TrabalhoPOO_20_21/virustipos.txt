@@ -1,0 +1,4 @@
+Covid	0.22	0.70	1
+PesteNegra	0.47	0.80	1
+Sars	0.1	0.35	1
+GripeEspanhola	0.08	0.4	1
