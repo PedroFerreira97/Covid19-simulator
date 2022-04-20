@@ -1,0 +1,21 @@
+﻿  Cidade.cpp
+  main.cpp
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.h(47,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.h(49,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\main.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pessoa.cpp
+  SGestao.cpp
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.h(47,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.h(49,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.cpp(330,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.cpp(356,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.cpp(391,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.cpp(426,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.cpp(462,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.cpp(501,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.cpp(520,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Nova pasta\TrabalhoPOO_20_21_V2\TrabalhoPOO_20_21\SGestao.cpp(1046,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Uteis.cpp
+  virus.cpp
+  Generating Code...
+  TrabalhoPOO_20_21.vcxproj -> D:\Nova pasta\TrabalhoPOO_20_21_V2\x64\Debug\TrabalhoPOO_20_21.exe
